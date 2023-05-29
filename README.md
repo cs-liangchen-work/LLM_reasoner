@@ -13,6 +13,13 @@ CombLM: Adapting Black-Box Language Models through Small Fine-Tuned Models https
 
 Playing repeated games with Large Language Models https://arxiv.org/abs/2305.16867 博弈游戏
 
+AdaPlanner: Adaptive Planning from Feedback with Language Models https://arxiv.org/abs/2305.16653 闭环
+
+
+
+# 外挂：
+DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
+
 # bias：
 [Surfacing Biases in Large Language Models using Contrastive Input Decoding](https://arxiv.org/abs/2305.07378)
 
