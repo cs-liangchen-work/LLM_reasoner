@@ -22,6 +22,8 @@ Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language 
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
 
+On the Tool Manipulation Capability of Open-source Large Language Models https://arxiv.org/abs/2305.16504
+
 # 大小模型
 Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing https://arxiv.org/abs/2305.16635
 
