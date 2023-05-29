@@ -19,6 +19,8 @@ Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning htt
 
 Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models https://arxiv.org/abs/2305.16582 COT
 
+Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving https://arxiv.org/abs/2305.16366 定理证明
+
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
 
