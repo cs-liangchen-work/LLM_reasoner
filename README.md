@@ -23,7 +23,9 @@ Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem 
 
 Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset https://arxiv.org/abs/2305.16344 解析财务报告
 
+OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities https://arxiv.org/abs/2305.16334
 
+NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models https://arxiv.org/abs/2305.16986
 
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
@@ -31,6 +33,8 @@ DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB In
 On the Tool Manipulation Capability of Open-source Large Language Models https://arxiv.org/abs/2305.16504
 
 Role-Play with Large Language Models https://arxiv.org/abs/2305.16367
+
+Large Language Models as Tool Makers https://arxiv.org/abs/2305.17126
 
 # 其他大模型
 
