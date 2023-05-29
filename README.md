@@ -7,6 +7,8 @@
 
 Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models https://arxiv.org/abs/2305.17077
 
+On the Computational Power of Decoder-Only Transformer Language Models https://arxiv.org/abs/2305.17026 计算能力
+
 # bias：
 [Surfacing Biases in Large Language Models using Contrastive Input Decoding](https://arxiv.org/abs/2305.07378)
 
