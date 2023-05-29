@@ -65,3 +65,5 @@ Can large language models generate salient negative statements? https://arxiv.or
 
 # 跨语言泛化
 Don't Trust GPT When Your Question Is Not In English https://arxiv.org/abs/2305.16339
+
+How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning https://arxiv.org/abs/2305.13286
