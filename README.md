@@ -21,6 +21,10 @@ Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language 
 
 Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving https://arxiv.org/abs/2305.16366 定理证明
 
+Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset https://arxiv.org/abs/2305.16344 解析财务报告
+
+
+
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
 
