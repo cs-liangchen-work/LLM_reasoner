@@ -17,7 +17,7 @@ AdaPlanner: Adaptive Planning from Feedback with Language Models https://arxiv.o
 
 Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning https://arxiv.org/abs/2305.16646
 
-Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models https://arxiv.org/abs/2305.16582
+Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models https://arxiv.org/abs/2305.16582 COT
 
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
