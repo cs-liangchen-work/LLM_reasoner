@@ -27,6 +27,10 @@ OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities https://arxiv.
 
 NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models https://arxiv.org/abs/2305.16986
 
+Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes https://arxiv.org/abs/2305.13300 知识冲突
+
+Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model https://arxiv.org/abs/2305.16617 贝叶斯
+
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
 
@@ -39,6 +43,8 @@ Large Language Models as Tool Makers https://arxiv.org/abs/2305.17126
 # 其他大模型
 
 PandaGPT: One Model To Instruction-Follow Them All https://arxiv.org/abs/2305.16355
+
+RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text https://arxiv.org/abs/2305.13304
 
 # 决策
 Think Before You Act: Decision Transformers with Internal Working Memory https://arxiv.org/abs/2305.16338
