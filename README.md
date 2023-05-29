@@ -40,6 +40,8 @@ Role-Play with Large Language Models https://arxiv.org/abs/2305.16367
 
 Large Language Models as Tool Makers https://arxiv.org/abs/2305.17126
 
+Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases https://arxiv.org/abs/2305.13269
+
 # 其他大模型
 
 PandaGPT: One Model To Instruction-Follow Them All https://arxiv.org/abs/2305.16355
