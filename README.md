@@ -24,6 +24,8 @@ DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB In
 
 On the Tool Manipulation Capability of Open-source Large Language Models https://arxiv.org/abs/2305.16504
 
+Role-Play with Large Language Models https://arxiv.org/abs/2305.16367
+
 # 大小模型
 Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing https://arxiv.org/abs/2305.16635
 
