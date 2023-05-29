@@ -50,3 +50,6 @@ BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transforme
 
 # 生成负面陈述
 Can large language models generate salient negative statements? https://arxiv.org/abs/2305.16755
+
+# 跨语言泛化
+Don't Trust GPT When Your Question Is Not In English https://arxiv.org/abs/2305.16339
