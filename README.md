@@ -40,6 +40,8 @@ Large Language Models as Tool Makers https://arxiv.org/abs/2305.17126
 
 PandaGPT: One Model To Instruction-Follow Them All https://arxiv.org/abs/2305.16355
 
+# 决策
+Think Before You Act: Decision Transformers with Internal Working Memory https://arxiv.org/abs/2305.16338
 
 # 大小模型
 Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing https://arxiv.org/abs/2305.16635
