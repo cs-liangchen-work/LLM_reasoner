@@ -15,10 +15,15 @@ Playing repeated games with Large Language Models https://arxiv.org/abs/2305.168
 
 AdaPlanner: Adaptive Planning from Feedback with Language Models https://arxiv.org/abs/2305.16653 闭环
 
+Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning https://arxiv.org/abs/2305.16646
+
 
 
 # 外挂：
 DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies https://arxiv.org/abs/2305.16697
+
+# 大小模型
+Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing https://arxiv.org/abs/2305.16635
 
 # bias：
 [Surfacing Biases in Large Language Models using Contrastive Input Decoding](https://arxiv.org/abs/2305.07378)
